@@ -1,3 +1,4 @@
+# Semana 1
 De la semana uno tenemos las siguientes prácticas:
 - Buyer persona
 - Público 
