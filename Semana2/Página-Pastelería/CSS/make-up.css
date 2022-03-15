@@ -1,0 +1,51 @@
+#cajaTexto.src{
+padding: 9px 10px 9px 55px;
+outline: none;
+font-size: 18px;
+border-radius: 15px;
+color: #444;
+border: 3px solid #000;
+background: #fff url("../images/bus.svg") no-repeat 9px center;
+width: 600px;
+transition: all .5s;
+}
+
+#BuscarChis{
+	height: 65px;
+	width: 75px;
+}
+
+#Fondo{
+	margin-top: 120px;
+	width: 100%;	
+}
+#CajaBus{
+	width: 100%;
+}
+#PerfilIntegrantes{
+	height:200px;
+	width:200px;
+}
+#Evelyn{
+	margin-top: 90px;
+}
+#joker{
+	border-top-left-radius: 30px;	
+	border-bottom-left-radius: 30px;
+}
+.IniSess{
+	border: none;
+	outline: none;
+	height: 50px;
+	width: 100%;
+	background-color: black;
+	color: white;
+	border-radius: 4px;
+	font-weight: bold;
+
+}
+.IniSess:hover{
+	background: white;
+	border: 1px solid;
+	color: black;
+}
